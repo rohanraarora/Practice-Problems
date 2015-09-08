@@ -2,7 +2,7 @@
 
 There is new delicious item in Chef's menu - a doughnut chain. Doughnuts connected successively in line forming a chain.
 
-![alt tag](https://raw.githubusercontent.com/rohanraarora/Practice-Problems/master/Codechef/September%20Long%202015/Chain%20of%20Doughnuts/raw/DONUT1.jpg)
+![alt tag](https://raw.githubusercontent.com/rohanraarora/Practice-Problems/master/Codechef/September%20Long%202015/Chain%20of%20Doughnuts/raw/DONUT1.jpg?token=AGUT1e46mZTicu3SLiRn_B2d0BOoR026ks5V973wwA%3D%3D)
 
 _Chain of 3 doughnuts_
 
@@ -63,6 +63,6 @@ For example, let's cut it from the first chain. After this we will have chains o
 
 **Example 2:** We cut doughnut from the last "chain" and connect the first two chains.
 
-![alt tag](https://raw.githubusercontent.com/rohanraarora/Practice-Problems/master/Codechef/September%20Long%202015/Chain%20of%20Doughnuts/raw/DONUT2.png)
+![alt tag](https://raw.githubusercontent.com/rohanraarora/Practice-Problems/master/Codechef/September%20Long%202015/Chain%20of%20Doughnuts/raw/DONUT2.png?token=AGUT1VYiYozHGhxL6S-Jdgs5HtomPlzhks5V973zwA%3D%3D)
 
 _Image for second example. Yellow doughnut has been cut._
